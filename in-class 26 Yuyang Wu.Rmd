@@ -1,0 +1,18 @@
+---
+title: "in-class 26 Yuyang Wu"
+author: "Yuyang_Wu"
+date: "4/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Question 1
+```{r}
+# sample of size 100
+Y<- rnorm( 100)
+hist( Y)
+```
+
