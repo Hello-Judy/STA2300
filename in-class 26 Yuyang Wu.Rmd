@@ -16,3 +16,8 @@ Y<- rnorm( 100)
 hist( Y)
 ```
 
+![GAUESS](G.jpg)
+
+He is a mathematician.
+
+
